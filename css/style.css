@@ -99,3 +99,6 @@ footer p {
 a:link, a:visited {
   color: blue;
 }
+a:hover {
+  text-decoration: underline;
+}
