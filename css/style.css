@@ -79,6 +79,7 @@ img {
 
 .logo {
 	border-color: #ccc;
+  padding: 1px;
 }
 
 .logo:hover {
